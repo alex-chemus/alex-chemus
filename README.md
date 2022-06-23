@@ -32,3 +32,10 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+### Coding platforms
+[<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />][codewars]
+[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />][codepen]
+
+[codewars]: https://www.codewars.com/users/Alex%20Chemus
+[codepen]: https://codepen.io/alex-chemus-the-animator/pens/public
