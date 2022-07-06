@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Alex Chemus, a self-taught frontend developer
+### Hello there 👋 I'm Alex Chemus, a novice frontend developer
 
 # Skills
 <p>
